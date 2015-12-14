@@ -10,6 +10,7 @@ namespace FirstProject.Controllers
     {
         public ActionResult Index()
         {
+            ViewBag.Message = "Hello Girls";
             return View();
         }
 
