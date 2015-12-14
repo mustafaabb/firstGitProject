@@ -3,6 +3,7 @@
 ###################
 *.com
 *.class
+*.cache
 *.dll
 *.exe
 *.pdb
@@ -74,3 +75,4 @@ _[Ss]cripts
 *.nupkg
 *.ncrunchsolution
 *.dot[Cc]over
+/obj/Debug
